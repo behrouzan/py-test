@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 # nba = pd.read_csv('files/nba_data.csv')
 
