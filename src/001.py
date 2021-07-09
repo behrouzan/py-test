@@ -1,5 +1,7 @@
 import pandas as pd
 
+# this is a fucking test comment
+
 # nba = pd.read_csv('files/nba_data.csv')
 
 # print(type(nba))
